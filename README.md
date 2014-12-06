@@ -1,6 +1,12 @@
 RandomProcesses.jl
 ==================
 
+# NOTICE
+
+**This package is unmaintained. Its reliability is not guaranteed.**
+
+# Introduction
+
 CRP, CRT (just the number of occupied tables in a CRP draw)
 
 	using RandomProcesses
